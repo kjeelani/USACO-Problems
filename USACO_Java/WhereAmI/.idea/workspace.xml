@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0317e28-398b-4b54-981d-26836cf410d3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../APSCAClassroom/DragonPlatformerGame/src/com/cyber/GameUtils/DeathScreen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../APSCAClassroom/DragonPlatformerGame/src/com/cyber/GameUtils/TriviaQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../APSCAClassroom/DragonPlatformerGame/src/com/cyber/GameUtils/YCWOpener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/CODE_OF_CONDUCT.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/CONTRIBUTION-GUIDELINES.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/CONTRIBUTORS.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-balls-follow-mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-center-interval-burst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-circular-motion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-click-burst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-colliding-circles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-colorful-samurai-rainbow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-colorful-samurai.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-connecting-particles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-continuous-random-burst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-crazy-party-balls.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-custom-growing-circles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-diana-follow-mouse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-falling-circles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-falling-stars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-flame-lines.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-float-bubbles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-growing-circles-gray.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-growing-circles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-matrix-rain.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-night-sky.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-quick-interval-burst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-random-3d-circles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-random-burst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-random-moving-squares.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-random-popping-circles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-simple-loading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-sine-waves.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-slow-interval-burst.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-files/anojs-test-file5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-balls-follow-mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-center-interval-burst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-circular-motion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-click-burst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-colliding-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-colorful-samurai-rainbow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-colorful-samurai.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-connecting-particles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-continuous-random-burst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-crazy-party-balls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-diana-follow-mouse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-falling-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-falling-stars.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-flame-lines.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-float-bubbles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-growing-circles-gray.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-growing-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-matrix-rain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-night-sky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-quick-interval-burst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-random-3d-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-random-burst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-random-moving-squares.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-random-popping-circles.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-simple-loading.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-sine-waves.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/animation-images/anojs-slow-interval-burst.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../anojs/contributors.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1iWlgwihFLU9Kta21KPXFetsnoE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SocialDistance1" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="BovineShuffle" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0317e28-398b-4b54-981d-26836cf410d3" name="Default Changelist" comment="" />
+      <created>1602031348440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602031348440</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="205" key="FileChooserDialogImpl" timestamp="1607044242454">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="580" y="205" key="FileChooserDialogImpl/0.0.1600.900@0.0.1600.900" timestamp="1607044242454" />
+    <state width="1557" height="228" key="GridCell.Tab.0.bottom" timestamp="1602542850813">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="228" key="GridCell.Tab.0.bottom/0.0.1600.900@0.0.1600.900" timestamp="1602542850813" />
+    <state width="1557" height="228" key="GridCell.Tab.0.center" timestamp="1602542850812">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="228" key="GridCell.Tab.0.center/0.0.1600.900@0.0.1600.900" timestamp="1602542850812" />
+    <state width="1557" height="228" key="GridCell.Tab.0.left" timestamp="1602542850812">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="228" key="GridCell.Tab.0.left/0.0.1600.900@0.0.1600.900" timestamp="1602542850812" />
+    <state width="1557" height="228" key="GridCell.Tab.0.right" timestamp="1602542850813">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="228" key="GridCell.Tab.0.right/0.0.1600.900@0.0.1600.900" timestamp="1602542850813" />
+    <state width="1557" height="283" key="GridCell.Tab.1.bottom" timestamp="1602038584334">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="283" key="GridCell.Tab.1.bottom/0.0.1600.900@0.0.1600.900" timestamp="1602038584334" />
+    <state width="1557" height="283" key="GridCell.Tab.1.center" timestamp="1602038584334">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="283" key="GridCell.Tab.1.center/0.0.1600.900@0.0.1600.900" timestamp="1602038584334" />
+    <state width="1557" height="283" key="GridCell.Tab.1.left" timestamp="1602038584334">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="283" key="GridCell.Tab.1.left/0.0.1600.900@0.0.1600.900" timestamp="1602038584334" />
+    <state width="1557" height="283" key="GridCell.Tab.1.right" timestamp="1602038584334">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state width="1557" height="283" key="GridCell.Tab.1.right/0.0.1600.900@0.0.1600.900" timestamp="1602038584334" />
+    <state x="310" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602032922854">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="310" y="104" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1600.900@0.0.1600.900" timestamp="1602032922854" />
+    <state x="182" y="25" key="new project wizard" timestamp="1602513531904">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="182" y="25" key="new project wizard/0.0.1600.900@0.0.1600.900" timestamp="1602513531904" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
