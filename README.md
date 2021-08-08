@@ -12,10 +12,10 @@ Algorithms I Am Strong In:
 DFS, BFS, Floodfill, Recursive, Binary Searching, String Processing, Sorting
 
 Algorithms I Am Familiar With:
-Tree Algorithms, Prefix Sums, Range Queries, Brute Force, Greedy
+Tree Algorithms, Prefix Sums, Range Queries, Brute Force, Greedy, Dstraika's, Cyclic Problems, Dynamic Programming
 
 Algorithms I Need To Learn/Practice:
-Cyclic Problems, Multi-Step Algorithms, Pattern Recognition, **Dynamic Programming**, Dstraika's Shortest Path, Prim's MST, Binary-Indexed Tree, Floyd-Warshall Algorithm
+Prim's MST, Binary-Indexed Tree, Floyd-Warshall Algorithm
 
 
 ## Resources
